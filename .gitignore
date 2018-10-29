@@ -1,1 +1,9 @@
+# Temporary files
+*~
+
+# Erlang files
 *.beam
+
+# Haskell files
+*.hi
+*.o
